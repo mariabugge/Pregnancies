@@ -7,3 +7,6 @@ Data set containing characteristics on pregnant women with information on whethe
 3. short PCA
 4. Clustering
 5. CART 
+
+
+Programmed in R - in jupypter notebook
